@@ -59,15 +59,6 @@ This project is presented as a responsive single-page website designed like a di
 
 ---
 
-## Project Structure
-.
-├── index.html
-├── style.css
-├── script.js
-└── images/
-
----
-
 ## Images & Attribution
 
 All images used are either:
