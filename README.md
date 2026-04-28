@@ -69,12 +69,6 @@ Attribution is provided where required.
 
 ---
 
-## How to Run
-
-Simply open `index.html` in your browser.
-
----
-
 ## Author
 
 Anderson Wang  
